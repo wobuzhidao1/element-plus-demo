@@ -1,0 +1,19 @@
+{
+  "name": "element-plus-demo",
+  "version": "1.0.0",
+  "description": "Vue3高效之旅组件库demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wobuzhidao1/element-plus-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wobuzhidao1/element-plus-demo/issues"
+  },
+  "homepage": "https://github.com/wobuzhidao1/element-plus-demo#readme"
+}
