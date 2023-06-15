@@ -1,2 +1,4 @@
 import Button from "./button";
-export { Button };
+import Row from "./row";
+import Col from "./col";
+export { Button, Row, Col};
